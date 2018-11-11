@@ -1,0 +1,14 @@
+C:\Users\vital\RiderProjects\SPP2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\vital\RiderProjects\SPP2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\vital\RiderProjects\SPP2\ConsoleApplication1\bin\Debug\FakerLibraryMy.dll
+C:\Users\vital\RiderProjects\SPP2\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vital\RiderProjects\SPP2\ConsoleApplication1\bin\Debug\FakerLibraryMy.pdb
+C:\Users\vital\RiderProjects\SPP2\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vital\RiderProjects\SPP2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\vital\RiderProjects\SPP2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\vital\RiderProjects\SPP2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\vital\RiderProjects\SPP2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\vital\RiderProjects\SPP2\ConsoleApplication1\bin\Debug\UnitTests.dll
+C:\Users\vital\RiderProjects\SPP2\ConsoleApplication1\bin\Debug\nunit.framework.dll
+C:\Users\vital\RiderProjects\SPP2\ConsoleApplication1\bin\Debug\UnitTests.pdb
+C:\Users\vital\RiderProjects\SPP2\ConsoleApplication1\bin\Debug\nunit.framework.xml

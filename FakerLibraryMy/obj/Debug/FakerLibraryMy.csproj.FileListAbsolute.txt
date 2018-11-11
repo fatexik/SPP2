@@ -1,0 +1,8 @@
+C:\Users\vital\RiderProjects\SPP2\FakerLibraryMy\bin\Debug\FakerLibraryMy.dll
+C:\Users\vital\RiderProjects\SPP2\FakerLibraryMy\bin\Debug\FakerLibraryMy.pdb
+C:\Users\vital\RiderProjects\SPP2\FakerLibraryMy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vital\RiderProjects\SPP2\FakerLibraryMy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vital\RiderProjects\SPP2\FakerLibraryMy\obj\Debug\FakerLibraryMy.csprojResolveAssemblyReference.cache
+C:\Users\vital\RiderProjects\SPP2\FakerLibraryMy\obj\Debug\FakerLibraryMy.csproj.CoreCompileInputs.cache
+C:\Users\vital\RiderProjects\SPP2\FakerLibraryMy\obj\Debug\FakerLibraryMy.dll
+C:\Users\vital\RiderProjects\SPP2\FakerLibraryMy\obj\Debug\FakerLibraryMy.pdb

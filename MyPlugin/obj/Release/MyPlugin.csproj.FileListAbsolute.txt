@@ -1,0 +1,10 @@
+C:\Users\vital\RiderProjects\SPP2\MyPlugin\bin\Release\MyPlugin.dll
+C:\Users\vital\RiderProjects\SPP2\MyPlugin\bin\Release\MyPlugin.pdb
+C:\Users\vital\RiderProjects\SPP2\MyPlugin\bin\Release\FakerLibraryMy.dll
+C:\Users\vital\RiderProjects\SPP2\MyPlugin\bin\Release\Newtonsoft.Json.dll
+C:\Users\vital\RiderProjects\SPP2\MyPlugin\bin\Release\FakerLibraryMy.pdb
+C:\Users\vital\RiderProjects\SPP2\MyPlugin\bin\Release\Newtonsoft.Json.xml
+C:\Users\vital\RiderProjects\SPP2\MyPlugin\obj\Release\MyPlugin.csprojResolveAssemblyReference.cache
+C:\Users\vital\RiderProjects\SPP2\MyPlugin\obj\Release\MyPlugin.csproj.CoreCompileInputs.cache
+C:\Users\vital\RiderProjects\SPP2\MyPlugin\obj\Release\MyPlugin.dll
+C:\Users\vital\RiderProjects\SPP2\MyPlugin\obj\Release\MyPlugin.pdb
